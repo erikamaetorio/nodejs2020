@@ -1,0 +1,2 @@
+docker run -d -p //-d makes the process run in the background
+docker run -it -p <port> <process name>
